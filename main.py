@@ -1,11 +1,18 @@
 import requests
+from dotenv import load_dotenv
 import os
 from datetime import datetime
 import json
+import creds
 
 
+
+load_dotenv()
 Weather_Endpoint = 'https://api.openweathermap.org/data/2.5/weather'
-Weather_api = 'a19949006367bbf29bc47a3d432bf3ef'
+Weather_API_Key = os.getenv("WEATHER_API_KEY")
+if not Weather_API_Key:
+    raise ValueError("Weather API key is not set!")
+
 city_lon = None
 city_lat = None
 
@@ -25,7 +32,7 @@ if city_lat is None or city_lon is None:
     print("error")
 else:
      weather_params = {
-        "appid":Weather_api,
+        "appid":Weather_API_Key,
         "lat": city_lat,
         "lon": city_lon,
         "units": "metric"
