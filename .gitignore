@@ -1,0 +1,11 @@
+# IDE ile ilgili dosyalar
+.idea/
+
+# Sanal ortam klasörleri
+venv/
+
+# Log dosyaları
+*.log
+
+# Çevre değişkeni dosyaları
+.env
