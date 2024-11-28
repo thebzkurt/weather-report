@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6e8f8b-6922-47b7-bc61-a2f71d82958d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/weather-app (1).png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creds.py" beforeDir="false" afterPath="$PROJECT_DIR$/creds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/citys.json" beforeDir="false" afterPath="$PROJECT_DIR$/citys.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +39,18 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/PC/OneDrive/Masaüstü/dogi/paython_kodlarim/weather-report/images",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\OneDrive\Masaüstü\dogi\paython_kodlarim\weather-report\images" />
+      <recent name="C:\Users\PC\OneDrive\Masaüstü\dogi\paython_kodlarim\weather-report\.venv" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\OneDrive\Masaüstü\dogi\paython_kodlarim\weather-report" />
+      <recent name="C:\Users\PC\OneDrive\Masaüstü\dogi\paython_kodlarim\weather-report\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -74,7 +80,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
